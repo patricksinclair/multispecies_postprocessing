@@ -1,0 +1,2 @@
+tau,sim_time,sim_time_stDev,exit_time,exit_time_stDev,N*,det_rate_ratio,thickness,thick_stDev,n_deaths,n_detachments,n_immigrations,n_replications,n_tau_halves
+2.0000E-01,2.7834E+04,6.8140E+02,0.0000E+00,0.0000E+00,8.5000E-01,7.1380E-02,0.0000E+00,0.0000E+00,1.4250E+03,5.5683E+03,4.7995E+03,2.5370E+03,1.2900E+01

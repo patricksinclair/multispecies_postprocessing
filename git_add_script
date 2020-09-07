@@ -1,5 +1,5 @@
 #!/bin/bash
-#adds all the python scripts to bash
+#adds all the python scripts to git
 git add git_add_script #script that adds itself to git
 git add geno_distbs/varying_susceps/geno_distb_analyser.ipynb #big run analyser for varying susceptibilities
 git add parameter_diagnostics/optimal_r_det-N.ipynb #used for finding optimal N* and detatchment rate - OLD
@@ -8,6 +8,7 @@ git add parameter_diagnostics/optimal_param_pairs.ipynb #used for finding optima
 git add timeToFailure_varyingSuscep/ttf_analyser.ipynb #the time to failure for the varying susceptibilities
 git add biofilm_threshold_theory/bf_thresh_theory_plotter.ipynb #various plots from stocastic version of biofilm threshold theory
 git add biofilm_threshold_theory/stochastic_lagTime_analyser.ipynb #plots for the stochastic lag time (noise to reach microhabitat n)
+git add biofilm_threshold_theory/phase_diagram_plotter.ipynb #plots the phase diagram for the time taken to reach the first microhabitat
 
 git commit -m "$1"
 

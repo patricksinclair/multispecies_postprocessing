@@ -14,6 +14,8 @@ git add biofilm_threshold_theory/bf_thresh_theory_plotter.ipynb #various plots f
 git add biofilm_threshold_theory/stochastic_lagTime_analyser.ipynb #plots for the stochastic lag time (noise to reach microhabitat n)
 git add biofilm_threshold_theory/phase_diagram_plotter.ipynb #plots the phase diagram for the time taken to reach the first microhabitat
 
+git add lognorm_diagnostics/lognorm_analyser.ipynb #calculates mu and sigma for the log norm MIC distributions
+
 git commit -m "$1"
 
 git push -u origin master

@@ -14,6 +14,8 @@ git add biofilm_threshold_theory/bf_thresh_theory_plotter.ipynb #various plots f
 git add biofilm_threshold_theory/stochastic_lagTime_analyser.ipynb #plots for the stochastic lag time (noise to reach microhabitat n)
 git add biofilm_threshold_theory/phase_diagram_plotter.ipynb #plots the phase diagram for the time taken to reach the first microhabitat
 git add biofilm_threshold_theory/species_comp_analyser.ipynb #analyses the difference in species composition between the phase2 and phase4 regimes
+git add biofilm_threshold_theory/species_comp_analyser_v2.ipynb #analyses the difference in species composition between the phase2 and phase4 regimes (improved version)
+git add biofilm_threshold_theory/allen_presentation_plots.ipynb #plots of the effect of N* on population growth
 
 git add lognorm_diagnostics/lognorm_analyser.ipynb #calculates mu and sigma for the log norm MIC distributions
 

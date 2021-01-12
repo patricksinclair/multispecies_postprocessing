@@ -6,6 +6,7 @@ git add geno_distbs/varying_susceps/geno_distb_analyser.ipynb #big run analyser 
 git add geno_distbs/varying_susceps/multispecies_shannon_calculator.ipynb #calculates the shannon variables for the multispecies runs
 git add geno_distbs/varying_susceps/multispecies_shannon_plotter.ipynb #plots the shannon variables for the multispecies runs
 git add geno_distbs/varying_susceps/geno_distb_plotter.ipynb #plots the genotype distributions (the big pink and blue plots)
+git add geno_distbs/varying_susceps/ttf_analyser.ipynb #time to failure analyser
 
 git add parameter_diagnostics/optimal_r_det-N.ipynb #used for finding optimal N* and detatchment rate - OLD
 git add parameter_diagnostics/ms_diags_results #data used for the optiman N* and detachment rate

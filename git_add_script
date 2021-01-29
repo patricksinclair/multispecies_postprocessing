@@ -12,7 +12,6 @@ git add parameter_diagnostics/optimal_r_det-N.ipynb #used for finding optimal N*
 git add parameter_diagnostics/ms_diags_results #data used for the optiman N* and detachment rate
 git add parameter_diagnostics/optimal_param_pairs.ipynb #used for finding optimal N* and detachment rate
 
-git add timeToFailure_varyingSuscep/ttf_analyser.ipynb #the time to failure for the varying susceptibilities
 
 git add biofilm_threshold_theory/bf_thresh_theory_plotter.ipynb #various plots from stocastic version of biofilm threshold theory
 git add biofilm_threshold_theory/stochastic_lagTime_analyser.ipynb #plots for the stochastic lag time (noise to reach microhabitat n)

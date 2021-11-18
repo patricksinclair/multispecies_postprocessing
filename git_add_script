@@ -1,5 +1,5 @@
 #!/bin/bash
-#adds all the python scripts to git
+#adds all the python scripts to git (hopefully PAT works)
 git add git_add_script #script that adds itself to git
 
 git add geno_distbs/varying_susceps/geno_distb_analyser.ipynb #big run analyser for varying susceptibilities

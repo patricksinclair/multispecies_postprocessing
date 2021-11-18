@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="185.64072mm"
-   height="104.46761mm"
-   viewBox="0 0 185.64072 104.4676"
+   width="176.79013mm"
+   height="101.06775mm"
+   viewBox="0 0 176.79013 101.06774"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   inkscape:version="1.0.2 (394de47547, 2021-03-26)"
    sodipodi:docname="modeldiagram.svg">
   <defs
      id="defs2">
@@ -1831,7 +1831,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="351.79725"
-     inkscape:cy="284.09472"
+     inkscape:cy="292.19888"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1861,7 +1861,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-2.9120845,-1.8684395)">
+     transform="translate(-2.9120845,0.27578613)">
     <rect
        style="fill:#333333;fill-rule:evenodd;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10"
@@ -1974,7 +1974,7 @@
        inkscape:transform-center-y="-4.1430721" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="12.439433"
        y="8.2290115"
        id="text5347"><tspan
@@ -1982,7 +1982,7 @@
          id="tspan5345"
          x="12.439433"
          y="8.2290115"
-         style="font-size:7.05556px;stroke-width:0.264583">immigration</tspan></text>
+         style="font-size:9.87778px;stroke-width:0.264583">immigration</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
        d="m 21.300551,83.605989 c 7.537338,9.476092 7.537338,9.476092 7.537338,9.476092"
@@ -1995,15 +1995,15 @@
        r="2" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="9.1363373"
-       y="104.83084"
+       style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.0508"
+       y="90.926025"
        id="text5877"><tspan
          sodipodi:role="line"
          id="tspan5875"
-         x="9.1363373"
-         y="104.83084"
-         style="font-size:7.05556px;stroke-width:0.264583">detachment</tspan></text>
+         x="31.0508"
+         y="90.926025"
+         style="font-size:9.87778px;stroke-width:0.264583">detachment</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.50537;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6469)"
        d="m 33.850675,53.682491 83.661135,-0.01283 v 0"
@@ -2011,7 +2011,7 @@
     <text
        xml:space="preserve"
        id="text6585"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect6587);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect6587);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        x="35.447979"
        y="0"
        transform="translate(-20.295819,-5.5510902)"><tspan
@@ -2249,17 +2249,6 @@
        id="path4500-7-1"
        inkscape:transform-center-x="-0.33600021"
        inkscape:transform-center-y="-4.0074655" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="145.03474"
-       y="8.2293768"
-       id="text5347-5"><tspan
-         sodipodi:role="line"
-         id="tspan5345-9"
-         x="145.03474"
-         y="8.2293768"
-         style="font-size:7.05556px;stroke-width:0.264583">immigration</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-5)"
        d="M 157.99682,83.087353 C 168.2357,94.838981 168.2357,94.838981 168.2357,94.838981"
@@ -2270,17 +2259,6 @@
        cx="170.78984"
        cy="97.609467"
        r="2" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="144.97829"
-       y="105.23614"
-       id="text5877-6"><tspan
-         sodipodi:role="line"
-         id="tspan5875-7"
-         x="144.97829"
-         y="105.23614"
-         style="font-size:7.05556px;stroke-width:0.264583">detachment</tspan></text>
     <circle
        style="fill:#00ff00;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path14-35-1-3"
@@ -2315,11 +2293,11 @@
        style="fill:#00ff00;fill-opacity:0;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path14-35-1-4"
        cx="152.7782"
-       cy="22.300594"
+       cy="21.771427"
        r="2" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4918-61-8)"
-       d="m 150.81169,22.61754 -8.71873,2.20683"
+       d="m 150.81169,22.088373 -8.71873,2.20683"
        id="path4500-7-9"
        inkscape:transform-center-x="-0.81065932"
        inkscape:transform-center-y="-4.5113148" />

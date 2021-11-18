@@ -9,7 +9,7 @@ git add geno_distbs/varying_susceps/geno_distb_plotter.ipynb #plots the genotype
 git add geno_distbs/varying_susceps/ttf_analyser.ipynb #time to failure analyser
 
 git add parameter_diagnostics/optimal_r_det-N.ipynb #used for finding optimal N* and detatchment rate - OLD
-git add parameter_diagnostics/ms_diags_results #data used for the optiman N* and detachment rate
+git add parameter_diagnostics/ms_diags_results #data used for the optimal N* and detachment rate
 git add parameter_diagnostics/optimal_param_pairs.ipynb #used for finding optimal N* and detachment rate
 
 

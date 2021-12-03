@@ -26,6 +26,8 @@ git add biofilm_threshold_theory/paper_plots/modeldiagram.svg #inkscape file of 
 
 git add lognorm_diagnostics/lognorm_analyser.ipynb #calculates mu and sigma for the log norm MIC distributions
 
+git add Testing_phase/PyrithionePlotter.ipynb # the old plotting scripts for lognorms/MIC half lifes.
+
 git commit -m "$1"
 
 git push -u origin master

@@ -24,6 +24,7 @@ git add biofilm_threshold_theory/species_comp_analyser_v2.ipynb #analyses the di
 git add biofilm_threshold_theory/species_comp_analyser_v3.ipynb #analyses the species composition, does shannon calculations but without the memory issues
 git add biofilm_threshold_theory/species_comp_plotter.ipynb #makes plots of the shannon caluclations for the two phases
 git add biofilm_threshold_theory/allen_presentation_plots.ipynb #plots of the effect of N* on population growth
+git add biofilm_threshold_theory/chris_figure_plotter.ipynb # replication of Chris' figure 2a in python style
 
 git add biofilm_threshold_theory/paper_plots/modeldiagram.svg #inkscape file of the bftt model diagram
 

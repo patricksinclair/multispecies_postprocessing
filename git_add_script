@@ -32,6 +32,7 @@ git add biofilm_threshold_theory/paper_plots/modeldiagram.svg #inkscape file of 
 # this is for the updated bftt results, with logistic death now implemented
 git add biofilm_threshold_theory_v2/bftt_paper_plotter.ipynb
 git add biofilm_threshold_theory_v2/bftt_supplementary_plotter.ipynb
+git add biofilm_threshold_theory_v2/phase_diagram_plotter_v2.2.ipynb
 
 git add lognorm_diagnostics/lognorm_analyser.ipynb #calculates mu and sigma for the log norm MIC distributions
 
